@@ -1,0 +1,16 @@
+/* styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* styles/Home.module.css */
+.background {
+  background-image: url('../../public/bg.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  width: 50vw !important;
+  height: 20vh !important; 
+}
