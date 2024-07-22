@@ -38,7 +38,7 @@ const HeroSection = () => {
           </Form>
         </div>
         <div className="md:w-1/2">
-          {<Image src={background} className="w-80 h-70 mx-20 rounded"></Image>}
+          {<Image src={background} className="w-80 h-70 mx-20 rounded" alt="img loading"></Image>}
         </div>
       </div>
     </section>

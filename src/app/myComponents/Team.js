@@ -21,7 +21,7 @@ const Team = () => {
             <p className="text-lg">Years of experience</p>
           </div>
         </div>
-        <p className="w-1/2 m-auto p-2 bg-red-100 rounded">All necessary specialists - from a designer to a tester - are on our staff.We hire the best specialists in the market.It's expensive but worth it</p>
+        <p className="w-1/2 m-auto p-2 bg-red-100 rounded">All necessary specialists - from a designer to a tester - are on our staff.We hire the best specialists in the market.It is expensive but worth it</p>
         <div className="mt-8 flex justify-center">
           <img src="./team.jpeg" alt="Team" className="rounded shadow-md w-full md:w-1/2" />
         </div>
